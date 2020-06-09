@@ -1,5 +1,6 @@
 body {
 	background-image: url("retina.jpeg");
+	background-size: cover;
 	font-family: 'Montserrat', sans-serif;
 }
 
