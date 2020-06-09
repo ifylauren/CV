@@ -1,7 +1,11 @@
 body {
-	background-image: url("https://res.cloudinary.com/dd70b6zra/image/upload/v1591722170/pexels-photo-2265082_kdhf6m.jpg");
+	background-image: url("https://res.cloudinary.com/dd70b6zra/image/upload/v1591723696/pexels-photo-2451265_skropn.jpg");
 	background-size: cover;
 	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+        padding: 10px;
+	margin: 30px;
+	
 }
 
 #contact:hover {
