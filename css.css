@@ -26,3 +26,7 @@ body {
 	background: #a234eb;
 	color: white;
 }
+
+#header-design {
+	background-color: rgba(24, 138, 245, 0.3);
+}
